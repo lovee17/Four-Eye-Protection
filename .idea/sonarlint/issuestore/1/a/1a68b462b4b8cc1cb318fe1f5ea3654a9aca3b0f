@@ -1,0 +1,21 @@
+
+`
+java:S1192a"JDefine a constant instead of duplicating this literal "makerview" 4 times.(İ©
+h
+java:S11920"MDefine a constant instead of duplicating this literal "customerform" 3 times.(îş¿ ıÿÿÿÿ
+n
+java:S1192c"SDefine a constant instead of duplicating this literal "customerMasterList" 4 times.(×î Áşÿÿÿÿ
+c
+java:S1192b"MDefine a constant instead of duplicating this literal "customerList" 4 times.(À¹¤
+_
+java:S1192."IDefine a constant instead of duplicating this literal "customer" 3 times.(¸è¡Ú
+n
+java:S4144r"XUpdate this method so that its implementation is not identical to "saveForm" on line 92.(çêÄÛ
+V
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(ï‡Ñ
+:
+java:S3751i"Make this method non "private".(Ô»¿Èùÿÿÿÿ
+\
+java:S4684Ä"@Replace this persistent entity with a simple POJO or DTO object.(ãƒàæùÿÿÿÿ
+p
+java:S1128"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ

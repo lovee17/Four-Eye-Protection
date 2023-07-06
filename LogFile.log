@@ -1,0 +1,1428 @@
+2023-05-02 11:32:50 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-02 11:32:51 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-02 11:32:52 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-02 11:32:55 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-02 11:32:57 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 11:33:04 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 11:33:04 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 11:33:20 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 11:33:20 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 11:35:47 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-02 11:35:48 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-02 11:35:49 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-02 11:35:51 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-02 11:35:54 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 11:36:06 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 11:36:06 => All customers found in Temporary Table
+2023-05-02 11:36:06 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 11:36:06 => All customers found in Master
+2023-05-02 11:36:10 => Customer found in Temporary Table
+2023-05-02 11:36:16 => Customer updated in Temporary Table
+2023-05-02 11:36:17 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 11:36:17 => All customers found in Temporary Table
+2023-05-02 11:36:17 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 11:36:17 => All customers found in Master
+2023-05-02 12:49:17 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-02 12:49:17 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-02 12:49:19 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-02 12:49:22 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-02 12:49:24 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 12:50:11 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 12:50:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 12:50:36 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 12:50:45 => Customer found in Temporary Table
+2023-05-02 12:50:46 => Customer updated in Temporary Table
+2023-05-02 12:50:46 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 12:51:11 => Customer found in Temporary Table
+2023-05-02 12:51:12 => Customer updated in Temporary Table
+2023-05-02 12:51:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-02 12:51:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:27:23 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-03 18:27:25 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-03 18:27:28 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-03 18:27:34 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-03 18:27:39 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-03 18:29:25 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-03 18:29:26 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-03 18:29:29 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-03 18:29:35 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-03 18:29:39 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-03 18:30:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:30:13 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:31:27 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:31:28 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:36:43 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:36:43 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:36:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:36:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:39:09 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-03 18:39:10 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-03 18:39:13 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-03 18:39:19 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-03 18:39:22 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-03 18:39:35 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:39:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:43:24 => Customer inserted in Temporary Table
+2023-05-03 18:43:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:43:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:43:53 => Customer deleted from Temporary Table
+2023-05-03 18:43:53 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:43:54 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:44:34 => Customer inserted in Temporary Table
+2023-05-03 18:44:34 => SQL Error: 1, SQLState: 23000
+2023-05-03 18:44:34 => ORA-00001: unique constraint (TRAINING.SYS_C00287836) violated
+
+2023-05-03 18:49:26 => Customer deleted from Temporary Table
+2023-05-03 18:49:27 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:49:28 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-03 18:49:34 => Customer found in Temporary Table
+2023-05-04 10:43:15 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 10:43:15 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 10:43:17 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 10:43:21 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 10:43:24 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 11:49:42 => 2 Spring WebApplicationInitializers detected on classpath
+2023-05-04 11:49:44 => Initializing Spring root WebApplicationContext
+2023-05-04 11:49:44 => Root WebApplicationContext: initialization started
+2023-05-04 11:49:45 => Creating filter chain: Ant [pattern='/*.html'], []
+2023-05-04 11:49:45 => Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4234e2a4, org.springframework.security.web.context.SecurityContextPersistenceFilter@9a5696d, org.springframework.security.web.header.HeaderWriterFilter@754f91e1, org.springframework.security.web.csrf.CsrfFilter@3089519f, org.springframework.security.web.authentication.logout.LogoutFilter@2b11945f, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@1cf6658e, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@2da9959d, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@42f17d51, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@37003c30, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@b5c5502, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@43c49c34, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@41f1b74d, org.springframework.security.web.session.SessionManagementFilter@6776b4ec, org.springframework.security.web.access.ExceptionTranslationFilter@45676e7, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@69b22c2b]
+2023-05-04 11:49:45 => Root WebApplicationContext initialized in 1037 ms
+2023-05-04 11:49:45 => Initializing Spring DispatcherServlet 'dispatcher'
+2023-05-04 11:49:45 => Initializing Servlet 'dispatcher'
+2023-05-04 11:49:46 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 11:49:46 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 11:49:46 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 11:49:49 => HV000001: Hibernate Validator 6.0.22.Final
+2023-05-04 11:49:50 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.WildFlyStandAloneJtaPlatform]
+2023-05-04 11:49:51 => Creating filter chain: Ant [pattern='/*.html'], []
+2023-05-04 11:49:51 => Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@35da35d0, org.springframework.security.web.context.SecurityContextPersistenceFilter@11afd30, org.springframework.security.web.header.HeaderWriterFilter@5773c60b, org.springframework.security.web.csrf.CsrfFilter@45be840d, org.springframework.security.web.authentication.logout.LogoutFilter@63f1b63, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@12cbebcf, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@663d2670, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@347bf1, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@29e96951, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@33d0b822, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7ada63cd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4dec7dab, org.springframework.security.web.session.SessionManagementFilter@303589d7, org.springframework.security.web.access.ExceptionTranslationFilter@3410cd1c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2b03db09]
+2023-05-04 11:49:51 => Completed initialization in 6499 ms
+2023-05-04 11:51:10 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:51:10 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:53:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:53:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:53:18 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:53:18 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:53:29 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:53:29 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:53:40 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:53:40 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:53:50 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:53:50 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:54:00 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:54:01 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:54:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:54:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:54:21 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:54:21 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:55:21 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:55:21 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:58:36 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:58:36 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:59:32 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:59:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:59:45 => No mapping for GET /WebDefaultStructure/MakerCheckerBRD
+2023-05-04 11:59:51 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 11:59:52 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 12:07:28 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 12:07:28 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 12:07:43 => Customer found in Temporary Table
+2023-05-04 12:08:09 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 12:08:09 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 12:23:13 => Destroying Spring FrameworkServlet 'dispatcher'
+2023-05-04 12:23:13 => Closing Spring root WebApplicationContext
+2023-05-04 13:58:20 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 13:58:22 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 13:58:25 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 13:58:29 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 13:58:34 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 13:59:43 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 13:59:44 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:00:06 => Customer found in Temporary Table
+2023-05-04 14:00:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:00:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:02:07 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:02:07 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:02:11 => Customer found in Temporary Table
+2023-05-04 14:02:17 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:02:17 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:03:06 => Customer inserted in Temporary Table
+2023-05-04 14:03:13 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:03:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:03:32 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:03:32 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:03:55 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:03:56 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:04:06 => Customer found in Temporary Table
+2023-05-04 14:05:26 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:05:26 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:05:40 => Customer found in Temporary Table
+2023-05-04 14:05:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:05:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:05:47 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:05:47 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:06:29 => Customer found in Temporary Table
+2023-05-04 14:06:32 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:06:32 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:06:49 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:06:49 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:06:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:06:59 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:21:42 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 14:21:43 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 14:21:46 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 14:21:50 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 14:21:55 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 14:22:04 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:22:23 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:24:48 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 14:24:50 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 14:24:52 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 14:24:57 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 14:25:01 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 14:27:19 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 14:27:20 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 14:27:22 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 14:27:27 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 14:27:31 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 14:27:53 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:27:54 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:28:07 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:28:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:28:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:28:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:29:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:29:22 => Customer found in Temporary Table
+2023-05-04 14:29:27 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:30:45 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:31:25 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:31:31 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:33:28 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:34:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:34:13 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:34:30 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:43:28 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:46:39 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:48:03 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 14:48:41 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 15:06:57 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 15:06:58 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 15:06:59 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 15:07:04 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 15:07:06 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 15:09:56 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 15:09:57 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 15:09:59 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 15:10:03 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 15:10:06 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 15:11:08 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 15:11:08 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 15:11:10 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 15:11:14 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 15:11:17 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 15:11:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 15:11:59 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 15:12:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 15:12:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 15:13:02 => Customer inserted in Temporary Table
+2023-05-04 15:13:03 => SQL Error: 1, SQLState: 23000
+2023-05-04 15:13:03 => ORA-00001: unique constraint (TRAINING.SYS_C00287836) violated
+
+2023-05-04 15:13:30 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 15:13:30 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 15:25:46 => Customer inserted in Temporary Table
+2023-05-04 15:25:46 => SQL Error: 1, SQLState: 23000
+2023-05-04 15:25:46 => ORA-00001: unique constraint (TRAINING.SYS_C00287836) violated
+
+2023-05-04 15:25:49 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 15:25:49 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 15:28:30 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 15:28:31 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 15:28:32 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 15:28:37 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 15:28:40 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 16:25:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:25:43 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:25:53 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:25:53 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:26:14 => Customer found in Master
+2023-05-04 16:26:23 => Customer updated in Temporary Table
+2023-05-04 16:26:43 => Customer found in Master
+2023-05-04 16:26:53 => Customer updated in Temporary Table
+2023-05-04 16:27:35 => Customer found in Master
+2023-05-04 16:27:43 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:27:44 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:27:51 => Customer found in Master
+2023-05-04 16:27:51 => Customer inserted in Temporary Table
+2023-05-04 16:27:56 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:27:56 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:28:19 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:28:45 => Customer found in Temporary Table
+2023-05-04 16:28:45 => Customer inserted in Master
+2023-05-04 16:28:46 => Customer deleted from Temporary Table
+2023-05-04 16:28:46 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:28:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:28:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:29:03 => Customer found in Master
+2023-05-04 16:29:04 => Customer inserted in Temporary Table
+2023-05-04 16:29:09 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:29:10 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:29:14 => Customer deleted from Temporary Table
+2023-05-04 16:29:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:29:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:36:25 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:36:25 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:36:51 => Customer inserted in Temporary Table
+2023-05-04 16:36:59 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:36:59 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:37:20 => Customer inserted in Temporary Table
+2023-05-04 16:37:22 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:37:22 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:37:57 => Customer inserted in Temporary Table
+2023-05-04 16:37:59 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:38:00 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:38:19 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:38:23 => Customer found in Temporary Table
+2023-05-04 16:38:23 => Customer inserted in Master
+2023-05-04 16:38:23 => Customer deleted from Temporary Table
+2023-05-04 16:38:24 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:38:38 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:38:39 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:38:44 => Customer found in Master
+2023-05-04 16:39:05 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:39:06 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:42:34 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 16:42:35 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 16:42:38 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 16:42:43 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 16:42:47 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 16:43:02 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:43:04 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:43:32 => Customer inserted in Temporary Table
+2023-05-04 16:43:32 => SQL Error: 1, SQLState: 23000
+2023-05-04 16:43:32 => ORA-00001: unique constraint (TRAINING.SYS_C00287836) violated
+
+2023-05-04 16:43:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:43:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:43:42 => Customer found in Master
+2023-05-04 16:43:43 => Customer inserted in Temporary Table
+2023-05-04 16:43:43 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:43:43 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:44:13 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:44:19 => Customer deleted from Temporary Table
+2023-05-04 16:44:20 => Customer deleted from Master
+2023-05-04 16:44:20 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:44:32 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:44:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:44:56 => Customer found in Temporary Table
+2023-05-04 16:45:05 => Customer updated in Temporary Table
+2023-05-04 16:45:06 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:45:06 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:45:09 => Customer found in Temporary Table
+2023-05-04 16:45:21 => Customer found in Temporary Table
+2023-05-04 16:45:22 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:45:23 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:48:35 => Customer found in Temporary Table
+2023-05-04 16:48:40 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:48:40 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:48:56 => Customer found in Temporary Table
+2023-05-04 16:48:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:48:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:49:02 => Customer found in Temporary Table
+2023-05-04 16:49:02 => Customer found in Temporary Table
+2023-05-04 16:49:08 => Customer found in Temporary Table
+2023-05-04 16:50:25 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:50:26 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:50:28 => Customer found in Temporary Table
+2023-05-04 16:50:33 => Customer found in Temporary Table
+2023-05-04 16:50:53 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:50:54 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:53:07 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 16:53:08 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 16:53:11 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 16:53:16 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-04 16:53:20 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-04 16:53:32 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:53:34 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:54:03 => Customer inserted in Temporary Table
+2023-05-04 16:54:07 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:54:07 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:54:16 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:54:16 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:54:23 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:54:23 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:54:38 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:54:44 => Customer found in Temporary Table
+2023-05-04 16:54:44 => Customer inserted in Master
+2023-05-04 16:54:44 => Customer deleted from Temporary Table
+2023-05-04 16:54:45 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:55:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:55:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:55:37 => Customer found in Master
+2023-05-04 16:55:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 16:55:43 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-04 18:46:08 => 2 Spring WebApplicationInitializers detected on classpath
+2023-05-04 18:46:09 => Initializing Spring root WebApplicationContext
+2023-05-04 18:46:09 => Root WebApplicationContext: initialization started
+2023-05-04 18:46:10 => Creating filter chain: Ant [pattern='/*.html'], []
+2023-05-04 18:46:10 => Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@76e6fbe3, org.springframework.security.web.context.SecurityContextPersistenceFilter@6cdf2463, org.springframework.security.web.header.HeaderWriterFilter@26356fb6, org.springframework.security.web.csrf.CsrfFilter@48d7bc10, org.springframework.security.web.authentication.logout.LogoutFilter@4f0c5e42, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@31267309, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@5dccf974, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6b68dda3, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@fc4eba3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@66ea3a3a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@21f77b43, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5fd05967, org.springframework.security.web.session.SessionManagementFilter@2e9539e1, org.springframework.security.web.access.ExceptionTranslationFilter@388bca13, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@38797f22]
+2023-05-04 18:46:10 => Root WebApplicationContext initialized in 955 ms
+2023-05-04 18:46:10 => Initializing Spring DispatcherServlet 'dispatcher'
+2023-05-04 18:46:10 => Initializing Servlet 'dispatcher'
+2023-05-04 18:46:11 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-04 18:46:12 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-04 18:46:12 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-04 18:46:14 => HV000001: Hibernate Validator 6.0.22.Final
+2023-05-04 18:46:15 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.WildFlyStandAloneJtaPlatform]
+2023-05-04 18:46:16 => Creating filter chain: Ant [pattern='/*.html'], []
+2023-05-04 18:46:16 => Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@71f4e24f, org.springframework.security.web.context.SecurityContextPersistenceFilter@477908b, org.springframework.security.web.header.HeaderWriterFilter@5372001, org.springframework.security.web.csrf.CsrfFilter@79ae33, org.springframework.security.web.authentication.logout.LogoutFilter@3ab9ebc3, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@708a8dc, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@1bf4b682, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@7f1a051e, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1a6a25b2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7b2c4665, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@47275629, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3d961c69, org.springframework.security.web.session.SessionManagementFilter@4932a7a8, org.springframework.security.web.access.ExceptionTranslationFilter@7c306292, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@53aba976]
+2023-05-04 18:46:16 => Completed initialization in 5178 ms
+2023-05-04 18:50:56 => No Spring WebApplicationInitializer types detected on classpath
+2023-05-05 08:49:12 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-05 08:49:13 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-05 08:49:16 => HHH000342: Could not obtain connection to query metadata : ORA-28000: The account is locked.
+
+2023-05-05 08:49:16 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-05 08:49:18 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-05 08:49:23 => Unable obtain JDBC Connection
+java.sql.SQLException: ORA-28000: The account is locked.
+
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:113)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:283)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:278)
+	at oracle.jdbc.driver.T4CTTIoauthenticate.receiveOauth(T4CTTIoauthenticate.java:792)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:364)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:454)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:802)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:189)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriverManager(DriverManagerDataSource.java:155)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriver(DriverManagerDataSource.java:146)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnectionFromDriver(AbstractDriverBasedDataSource.java:205)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnection(AbstractDriverBasedDataSource.java:169)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.hql.spi.id.IdTableHelper.executeIdTableCreationStatements(IdTableHelper.java:67)
+	at org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy.finishPreparation(GlobalTemporaryTableBulkIdStrategy.java:125)
+	at org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy.finishPreparation(GlobalTemporaryTableBulkIdStrategy.java:42)
+	at org.hibernate.hql.spi.id.AbstractMultiTableBulkIdStrategyImpl.prepare(AbstractMultiTableBulkIdStrategyImpl.java:88)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:313)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:462)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:708)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:724)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1855)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1792)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:595)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:307)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$544430c6.getSessionFactory(<generated>)
+	at com.brd.config.AppConfig.getTemplate(AppConfig.java:60)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$544430c6.CGLIB$getTemplate$2(<generated>)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$544430c6$$FastClassBySpringCGLIB$$6eef1d4a.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$544430c6.getTemplate(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:651)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:484)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:578)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1164)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1013)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4958)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5265)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:696)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:690)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1889)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:583)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:473)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1618)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:319)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+	at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:946)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1396)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1386)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:919)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:265)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:432)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+2023-05-05 08:49:23 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-05 08:51:53 => Destroying Spring FrameworkServlet 'dispatcher'
+2023-05-05 08:51:53 => Closing Spring root WebApplicationContext
+2023-05-05 08:52:58 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-05 08:52:59 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-05 08:53:01 => HHH000342: Could not obtain connection to query metadata : ORA-28000: The account is locked.
+
+2023-05-05 08:53:01 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-05 08:53:04 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-05 08:53:08 => Unable obtain JDBC Connection
+java.sql.SQLException: ORA-28000: The account is locked.
+
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:113)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:283)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:278)
+	at oracle.jdbc.driver.T4CTTIoauthenticate.receiveOauth(T4CTTIoauthenticate.java:792)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:364)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:454)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:802)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:189)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriverManager(DriverManagerDataSource.java:155)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriver(DriverManagerDataSource.java:146)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnectionFromDriver(AbstractDriverBasedDataSource.java:205)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnection(AbstractDriverBasedDataSource.java:169)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.hql.spi.id.IdTableHelper.executeIdTableCreationStatements(IdTableHelper.java:67)
+	at org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy.finishPreparation(GlobalTemporaryTableBulkIdStrategy.java:125)
+	at org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy.finishPreparation(GlobalTemporaryTableBulkIdStrategy.java:42)
+	at org.hibernate.hql.spi.id.AbstractMultiTableBulkIdStrategyImpl.prepare(AbstractMultiTableBulkIdStrategyImpl.java:88)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:313)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:462)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:708)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:724)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1855)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1792)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:595)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:307)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$edb5d465.getSessionFactory(<generated>)
+	at com.brd.config.AppConfig.getTemplate(AppConfig.java:60)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$edb5d465.CGLIB$getTemplate$3(<generated>)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$edb5d465$$FastClassBySpringCGLIB$$22f5f71c.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$edb5d465.getTemplate(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:651)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:484)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:578)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1164)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1013)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4958)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5265)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:696)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:690)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1889)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:583)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:473)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1618)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:319)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+	at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:946)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1396)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1386)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:919)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:265)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:432)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+2023-05-05 08:53:08 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-05 10:29:30 => 2 Spring WebApplicationInitializers detected on classpath
+2023-05-05 10:29:31 => No Spring WebApplicationInitializer types detected on classpath
+2023-05-05 10:29:33 => Initializing Spring root WebApplicationContext
+2023-05-05 10:29:33 => Root WebApplicationContext: initialization started
+2023-05-05 10:29:34 => Creating filter chain: Ant [pattern='/*.html'], []
+2023-05-05 10:29:34 => Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1d633f3b, org.springframework.security.web.context.SecurityContextPersistenceFilter@24a8dff0, org.springframework.security.web.header.HeaderWriterFilter@26c9b1d8, org.springframework.security.web.csrf.CsrfFilter@38e0afde, org.springframework.security.web.authentication.logout.LogoutFilter@663d3a98, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@7eba3bc7, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@71a9d02c, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@169cc662, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4137831a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7c7f6ac9, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@150cf8e1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5b99eaa3, org.springframework.security.web.session.SessionManagementFilter@447909ef, org.springframework.security.web.access.ExceptionTranslationFilter@36d24f2d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@50efa9e1]
+2023-05-05 10:29:34 => Root WebApplicationContext initialized in 671 ms
+2023-05-05 10:29:34 => Initializing Spring DispatcherServlet 'dispatcher'
+2023-05-05 10:29:34 => Initializing Servlet 'dispatcher'
+2023-05-05 10:29:35 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-05 10:29:35 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-05 10:29:35 => HHH000342: Could not obtain connection to query metadata : ORA-28000: The account is locked.
+
+2023-05-05 10:29:35 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-05 10:29:36 => HV000001: Hibernate Validator 6.0.22.Final
+2023-05-05 10:29:37 => Unable obtain JDBC Connection
+java.sql.SQLException: ORA-28000: The account is locked.
+
+	at deployment.WebDefaultStructure.war//oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:113)
+	at deployment.WebDefaultStructure.war//oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+	at deployment.WebDefaultStructure.war//oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:283)
+	at deployment.WebDefaultStructure.war//oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:278)
+	at deployment.WebDefaultStructure.war//oracle.jdbc.driver.T4CTTIoauthenticate.receiveOauth(T4CTTIoauthenticate.java:792)
+	at deployment.WebDefaultStructure.war//oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:364)
+	at deployment.WebDefaultStructure.war//oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:454)
+	at deployment.WebDefaultStructure.war//oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at deployment.WebDefaultStructure.war//oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at deployment.WebDefaultStructure.war//oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:802)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:189)
+	at deployment.WebDefaultStructure.war//org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriverManager(DriverManagerDataSource.java:155)
+	at deployment.WebDefaultStructure.war//org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriver(DriverManagerDataSource.java:146)
+	at deployment.WebDefaultStructure.war//org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnectionFromDriver(AbstractDriverBasedDataSource.java:205)
+	at deployment.WebDefaultStructure.war//org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnection(AbstractDriverBasedDataSource.java:169)
+	at deployment.WebDefaultStructure.war//org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at deployment.WebDefaultStructure.war//org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at deployment.WebDefaultStructure.war//org.hibernate.hql.spi.id.IdTableHelper.executeIdTableCreationStatements(IdTableHelper.java:67)
+	at deployment.WebDefaultStructure.war//org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy.finishPreparation(GlobalTemporaryTableBulkIdStrategy.java:125)
+	at deployment.WebDefaultStructure.war//org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy.finishPreparation(GlobalTemporaryTableBulkIdStrategy.java:42)
+	at deployment.WebDefaultStructure.war//org.hibernate.hql.spi.id.AbstractMultiTableBulkIdStrategyImpl.prepare(AbstractMultiTableBulkIdStrategyImpl.java:88)
+	at deployment.WebDefaultStructure.war//org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:313)
+	at deployment.WebDefaultStructure.war//org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:462)
+	at deployment.WebDefaultStructure.war//org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:708)
+	at deployment.WebDefaultStructure.war//org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:724)
+	at deployment.WebDefaultStructure.war//org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at deployment.WebDefaultStructure.war//org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1855)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1792)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:595)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at deployment.WebDefaultStructure.war//org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:307)
+	at deployment.WebDefaultStructure.war//com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$313e4e96.getSessionFactory(<generated>)
+	at deployment.WebDefaultStructure.war//com.brd.config.AppConfig.getTemplate(AppConfig.java:60)
+	at deployment.WebDefaultStructure.war//com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$313e4e96.CGLIB$getTemplate$1(<generated>)
+	at deployment.WebDefaultStructure.war//com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$313e4e96$$FastClassBySpringCGLIB$$178ef19.invoke(<generated>)
+	at deployment.WebDefaultStructure.war//org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at deployment.WebDefaultStructure.war//org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at deployment.WebDefaultStructure.war//com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$313e4e96.getTemplate(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:651)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:484)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at deployment.WebDefaultStructure.war//org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879)
+	at deployment.WebDefaultStructure.war//org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at deployment.WebDefaultStructure.war//org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at deployment.WebDefaultStructure.war//org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at deployment.WebDefaultStructure.war//org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:578)
+	at deployment.WebDefaultStructure.war//org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at deployment.WebDefaultStructure.war//org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.api@2.0.0.Final//javax.servlet.GenericServlet.init(GenericServlet.java:180)
+	at io.undertow.servlet@2.2.5.Final//io.undertow.servlet.core.LifecyleInterceptorInvocation.proceed(LifecyleInterceptorInvocation.java:117)
+	at org.wildfly.extension.undertow@23.0.0.Final//org.wildfly.extension.undertow.security.RunAsLifecycleInterceptor.init(RunAsLifecycleInterceptor.java:78)
+	at io.undertow.servlet@2.2.5.Final//io.undertow.servlet.core.LifecyleInterceptorInvocation.proceed(LifecyleInterceptorInvocation.java:103)
+	at io.undertow.servlet@2.2.5.Final//io.undertow.servlet.core.ManagedServlet$DefaultInstanceStrategy.start(ManagedServlet.java:305)
+	at io.undertow.servlet@2.2.5.Final//io.undertow.servlet.core.ManagedServlet.createServlet(ManagedServlet.java:145)
+	at io.undertow.servlet@2.2.5.Final//io.undertow.servlet.core.DeploymentManagerImpl$2.call(DeploymentManagerImpl.java:588)
+	at io.undertow.servlet@2.2.5.Final//io.undertow.servlet.core.DeploymentManagerImpl$2.call(DeploymentManagerImpl.java:559)
+	at io.undertow.servlet@2.2.5.Final//io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:42)
+	at io.undertow.servlet@2.2.5.Final//io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at org.wildfly.extension.undertow@23.0.0.Final//org.wildfly.extension.undertow.security.SecurityContextThreadSetupAction.lambda$create$0(SecurityContextThreadSetupAction.java:105)
+	at org.wildfly.extension.undertow@23.0.0.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow@23.0.0.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow@23.0.0.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow@23.0.0.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at io.undertow.servlet@2.2.5.Final//io.undertow.servlet.core.DeploymentManagerImpl.start(DeploymentManagerImpl.java:601)
+	at org.wildfly.extension.undertow@23.0.0.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentService.startContext(UndertowDeploymentService.java:97)
+	at org.wildfly.extension.undertow@23.0.0.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentService$1.run(UndertowDeploymentService.java:78)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+2023-05-05 10:29:37 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.WildFlyStandAloneJtaPlatform]
+2023-05-05 10:29:38 => Creating filter chain: Ant [pattern='/*.html'], []
+2023-05-05 10:29:38 => Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@30c8f50d, org.springframework.security.web.context.SecurityContextPersistenceFilter@464d5e4a, org.springframework.security.web.header.HeaderWriterFilter@556e6166, org.springframework.security.web.csrf.CsrfFilter@31dae249, org.springframework.security.web.authentication.logout.LogoutFilter@79f93b1f, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@78d3cd53, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@3bd5ddc3, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@740810cb, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4ba9a8e7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@24094b09, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2ca6bbf, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1257f24c, org.springframework.security.web.session.SessionManagementFilter@20e338b5, org.springframework.security.web.access.ExceptionTranslationFilter@1b3f3331, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@29bdb728]
+2023-05-05 10:29:38 => Completed initialization in 3808 ms
+2023-05-05 15:17:49 => Destroying Spring FrameworkServlet 'dispatcher'
+2023-05-05 15:17:49 => Closing Spring root WebApplicationContext
+2023-05-11 00:37:53 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 00:37:54 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 00:37:55 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 00:37:59 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 00:38:02 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 00:38:13 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 00:38:19 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 00:38:35 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 00:38:38 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 00:39:24 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 00:39:24 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 00:39:26 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 00:39:44 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 00:39:47 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 00:40:11 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:40:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:40:15 => Customer found in Temporary Table
+2023-05-11 00:40:25 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:40:25 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:40:28 => Customer found in Temporary Table
+2023-05-11 00:40:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:40:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:42:00 => Customer found in Temporary Table
+2023-05-11 00:43:20 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:43:20 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:43:22 => Customer found in Temporary Table
+2023-05-11 00:43:41 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:43:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:48:23 => Customer found in Temporary Table
+2023-05-11 00:48:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:48:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:53:50 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 00:53:50 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 00:53:52 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 00:53:56 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 00:53:59 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 00:54:16 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 00:54:20 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 00:56:58 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 00:57:02 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 00:57:41 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 00:57:42 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 00:57:43 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 00:57:47 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 00:57:49 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 00:58:04 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:58:04 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:58:08 => Customer found in Temporary Table
+2023-05-11 00:58:10 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:58:10 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 00:58:40 => Customer inserted in Temporary Table
+2023-05-11 00:58:40 => SQL Error: 12899, SQLState: 72000
+2023-05-11 00:58:40 => ORA-12899: value too large for column "TRAINING"."CUSTOMERLOVE170601"."CREATEDBY" (actual: 224, maximum: 30)
+
+2023-05-11 00:59:35 => Customer inserted in Temporary Table
+2023-05-11 00:59:35 => SQL Error: 12899, SQLState: 72000
+2023-05-11 00:59:35 => ORA-12899: value too large for column "TRAINING"."CUSTOMERLOVE170601"."CREATEDBY" (actual: 224, maximum: 30)
+
+2023-05-11 01:00:08 => Customer inserted in Temporary Table
+2023-05-11 01:00:08 => SQL Error: 12899, SQLState: 72000
+2023-05-11 01:00:08 => ORA-12899: value too large for column "TRAINING"."CUSTOMERLOVE170601"."CREATEDBY" (actual: 224, maximum: 30)
+
+2023-05-11 01:00:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:00:38 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:01:05 => Customer inserted in Temporary Table
+2023-05-11 01:01:06 => SQL Error: 12899, SQLState: 72000
+2023-05-11 01:01:06 => ORA-12899: value too large for column "TRAINING"."CUSTOMERLOVE170601"."CREATEDBY" (actual: 224, maximum: 30)
+
+2023-05-11 01:02:11 => Customer inserted in Temporary Table
+2023-05-11 01:02:11 => SQL Error: 12899, SQLState: 72000
+2023-05-11 01:02:11 => ORA-12899: value too large for column "TRAINING"."CUSTOMERLOVE170601"."CREATEDBY" (actual: 224, maximum: 30)
+
+2023-05-11 01:02:17 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:02:18 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:02:34 => Customer inserted in Temporary Table
+2023-05-11 01:02:34 => SQL Error: 12899, SQLState: 72000
+2023-05-11 01:02:34 => ORA-12899: value too large for column "TRAINING"."CUSTOMERLOVE170601"."CREATEDBY" (actual: 224, maximum: 30)
+
+2023-05-11 01:06:33 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 01:06:33 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 01:06:35 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 01:06:40 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 01:06:45 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 01:06:55 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:06:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:07:31 => Customer inserted in Temporary Table
+2023-05-11 01:07:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:07:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:08:01 => Customer found in Temporary Table
+2023-05-11 01:10:27 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 01:10:28 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 01:10:29 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 01:10:33 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 01:10:35 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 01:11:07 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:11:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:11:31 => Customer found in Temporary Table
+2023-05-11 01:11:39 => Customer updated in Temporary Table
+2023-05-11 01:11:39 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:11:40 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:11:43 => Customer found in Temporary Table
+2023-05-11 01:12:18 => Customer found in Temporary Table
+2023-05-11 01:12:18 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:12:19 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:14:18 => Customer found in Temporary Table
+2023-05-11 01:14:23 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:14:24 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:15:34 => Customer found in Temporary Table
+2023-05-11 01:16:02 => Customer found in Temporary Table
+2023-05-11 01:18:32 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:18:32 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:19:10 => Customer inserted in Temporary Table
+2023-05-11 01:19:17 => Customer deleted from Temporary Table
+2023-05-11 01:19:21 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:19:21 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:19:40 => Customer inserted in Temporary Table
+2023-05-11 01:19:52 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:19:53 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:20:21 => Customer deleted from Temporary Table
+2023-05-11 01:20:21 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:20:21 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:24:29 => Customer found in Temporary Table
+2023-05-11 01:24:32 => Customer deleted from Temporary Table
+2023-05-11 01:24:36 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:24:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:24:43 => Customer found in Temporary Table
+2023-05-11 01:24:46 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:24:46 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:24:48 => Customer deleted from Temporary Table
+2023-05-11 01:24:48 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:24:49 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:24:53 => Customer found in Master
+2023-05-11 01:24:55 => Customer deleted from Temporary Table
+2023-05-11 01:24:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:24:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:27:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:27:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:28:28 => Customer inserted in Temporary Table
+2023-05-11 01:28:31 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:28:31 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:56:10 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 01:56:10 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 01:56:12 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 01:56:16 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 01:56:18 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 01:57:10 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:57:15 => Customer found in Temporary Table
+2023-05-11 01:57:16 => Customer inserted in Master
+2023-05-11 01:57:16 => Customer deleted from Temporary Table
+2023-05-11 01:57:17 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:57:53 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 01:57:54 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 02:06:51 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 02:06:52 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 02:06:53 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 02:06:57 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 02:07:00 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 02:07:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 02:07:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 02:09:03 => Customer inserted in Temporary Table
+2023-05-11 02:09:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 02:09:09 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 02:10:15 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 02:10:15 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 02:21:17 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 02:21:17 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:08:55 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 09:08:57 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 09:08:59 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 09:09:03 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 09:09:06 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 09:09:56 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:09:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:10:06 => Customer found in Temporary Table
+2023-05-11 09:10:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:10:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:11:06 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:11:07 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:11:10 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:11:10 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:11:13 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:11:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:11:16 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:11:16 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:13:37 => Customer found in Temporary Table
+2023-05-11 09:13:45 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:13:45 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:13:52 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:13:53 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:15:06 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:15:06 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:15:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:15:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:15:11 => Customer found in Temporary Table
+2023-05-11 09:16:20 => Customer found in Temporary Table
+2023-05-11 09:16:30 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:16:30 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:16:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:16:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:16:37 => Customer found in Master
+2023-05-11 09:17:49 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 09:17:50 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 09:17:53 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 09:17:56 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 09:18:00 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 09:18:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:19 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:20 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:24 => Customer found in Temporary Table
+2023-05-11 09:18:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:38 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:44 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:44 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:47 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:47 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:50 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:50 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:18:53 => Customer found in Temporary Table
+2023-05-11 09:19:03 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:19:03 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:21:18 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 09:21:19 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 09:21:21 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 09:21:25 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 09:21:29 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 09:22:02 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:22:04 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:22:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:22:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:22:15 => Customer found in Temporary Table
+2023-05-11 09:22:21 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:22:22 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:22:25 => Customer found in Temporary Table
+2023-05-11 09:23:01 => Customer found in Temporary Table
+2023-05-11 09:23:12 => Customer updated in Temporary Table
+2023-05-11 09:23:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:23:13 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:23:24 => Customer found in Master
+2023-05-11 09:23:36 => Customer updated in Temporary Table
+2023-05-11 09:23:36 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:23:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:24:33 => Customer found in Master
+2023-05-11 09:24:45 => Customer found in Master
+2023-05-11 09:24:48 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:24:48 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:24:55 => Customer found in Temporary Table
+2023-05-11 09:29:02 => Customer found in Temporary Table
+2023-05-11 09:30:26 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:30:27 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:31:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 09:31:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:52:18 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-11 12:52:20 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-11 12:52:22 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-11 12:52:26 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-11 12:52:30 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-11 12:52:51 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:52:52 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:52:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:52:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:53:02 => Customer found in Temporary Table
+2023-05-11 12:53:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:53:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:53:15 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:53:15 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:53:19 => Customer found in Temporary Table
+2023-05-11 12:54:05 => Customer found in Temporary Table
+2023-05-11 12:54:09 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:54:10 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:54:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:54:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 12:54:17 => Customer found in Temporary Table
+2023-05-11 17:26:43 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 17:27:32 => Customer found in Temporary Table
+2023-05-11 17:27:36 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 17:27:43 => Customer found in Temporary Table
+2023-05-11 17:27:43 => Customer inserted in Master
+2023-05-11 17:27:44 => Customer deleted from Temporary Table
+2023-05-11 17:27:44 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 17:27:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 17:27:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 17:28:01 => Customer found in Master
+2023-05-11 17:29:01 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 17:29:01 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 17:29:03 => Customer found in Temporary Table
+2023-05-11 17:29:07 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 17:29:07 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 17:29:09 => Customer found in Master
+2023-05-11 17:29:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-11 17:29:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:35:30 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-05-15 15:35:31 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-05-15 15:35:34 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-05-15 15:35:38 => HV000001: Hibernate Validator 5.4.0.Final
+2023-05-15 15:35:42 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-15 15:37:28 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:37:29 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:37:41 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:37:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:37:48 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:37:49 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:38:02 => Customer found in Temporary Table
+2023-05-15 15:38:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:38:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:38:11 => Customer found in Master
+2023-05-15 15:38:22 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:38:22 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:51:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:51:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:51:59 => Customer inserted in Temporary Table
+2023-05-15 15:52:04 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:52:04 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:52:21 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:52:26 => Customer found in Temporary Table
+2023-05-15 15:52:26 => Customer inserted in Master
+2023-05-15 15:52:27 => Customer deleted from Temporary Table
+2023-05-15 15:52:27 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:53:41 => Customer found in Temporary Table
+2023-05-15 15:53:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:53:51 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 15:53:52 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 17:42:22 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-05-15 17:42:22 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 11:39:18 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 11:39:20 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 11:39:22 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 11:39:29 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 11:39:33 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 11:41:54 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 11:41:55 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 12:13:05 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 12:13:07 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 12:13:09 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 12:13:16 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 12:13:20 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 12:32:04 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 12:32:06 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 12:32:11 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 12:32:17 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 12:32:22 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 12:34:10 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 12:34:12 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 12:34:14 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 12:34:20 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 12:34:24 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 12:35:03 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 12:35:04 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 12:40:01 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 12:40:02 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 12:40:05 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 12:40:12 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 12:40:16 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 12:41:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 12:41:16 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 12:52:35 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 12:52:36 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 12:52:40 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 12:52:47 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 12:52:51 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 12:53:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 12:53:16 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 13:00:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 13:00:33 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:08:29 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 14:08:30 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 14:08:33 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 14:08:37 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 14:08:40 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 14:08:49 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:08:49 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:09:38 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 14:09:39 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 14:09:42 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 14:09:47 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 14:09:50 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 14:09:53 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 14:09:57 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 14:10:06 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:10:07 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:10:25 => Customer found in Master
+2023-06-14 14:11:39 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 14:11:39 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 14:11:42 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 14:11:48 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 14:11:51 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 14:12:00 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:12:01 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:12:05 => Customer found in Master
+2023-06-14 14:13:42 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 14:13:43 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 14:13:45 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 14:13:50 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 14:13:53 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 14:14:14 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:14:15 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:14:17 => Customer found in Master
+2023-06-14 14:14:25 => Customer updated in Temporary Table
+2023-06-14 14:14:26 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:14:26 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:14:46 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:14:58 => Customer found in Temporary Table
+2023-06-14 14:14:59 => Customer deleted from Temporary Table
+2023-06-14 14:14:59 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:15:08 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:15:09 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:16:01 => Customer inserted in Temporary Table
+2023-06-14 14:16:09 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:16:10 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:16:16 => Customer found in Temporary Table
+2023-06-14 14:16:36 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:16:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:16:41 => Customer found in Master
+2023-06-14 14:16:50 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:16:50 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:16:52 => Customer found in Master
+2023-06-14 14:16:56 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:16:57 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:19:52 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-14 14:19:53 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-14 14:19:55 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-14 14:20:01 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-14 14:20:04 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-14 14:20:34 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:20:34 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:20:44 => Customer found in Temporary Table
+2023-06-14 14:21:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-14 14:21:58 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-29 14:41:39 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-29 14:41:40 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-29 14:41:42 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-29 14:41:46 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-29 14:41:49 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-29 15:00:27 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-29 15:00:28 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-29 15:00:33 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-29 15:00:37 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-29 15:00:42 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-29 15:01:51 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-06-29 15:01:52 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-06-29 15:01:56 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-06-29 15:02:00 => HV000001: Hibernate Validator 5.4.0.Final
+2023-06-29 15:02:05 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-29 15:02:16 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-29 15:02:18 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-29 15:02:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-29 15:02:42 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-29 15:04:16 => Customer found in Temporary Table
+2023-06-29 15:04:32 => Customer found in Master
+2023-06-29 15:04:37 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-29 15:04:53 => Customer found in Temporary Table
+2023-06-29 15:05:03 => Customer found in Temporary Table
+2023-06-29 15:05:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-29 15:05:12 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-06-29 15:13:23 => Customer found in Temporary Table
+2023-07-06 14:14:33 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-07-06 14:14:34 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-07-06 14:14:56 => HHH000342: Could not obtain connection to query metadata : Io exception: The Network Adapter could not establish the connection
+2023-07-06 14:14:56 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-07-06 14:14:58 => HV000001: Hibernate Validator 5.4.0.Final
+2023-07-06 14:15:23 => Unable obtain JDBC Connection
+java.sql.SQLException: Io exception: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:113)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:147)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:257)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:389)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:454)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:802)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:189)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriverManager(DriverManagerDataSource.java:155)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriver(DriverManagerDataSource.java:146)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnectionFromDriver(AbstractDriverBasedDataSource.java:205)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnection(AbstractDriverBasedDataSource.java:169)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.hql.spi.id.IdTableHelper.executeIdTableCreationStatements(IdTableHelper.java:67)
+	at org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy.finishPreparation(GlobalTemporaryTableBulkIdStrategy.java:125)
+	at org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy.finishPreparation(GlobalTemporaryTableBulkIdStrategy.java:42)
+	at org.hibernate.hql.spi.id.AbstractMultiTableBulkIdStrategyImpl.prepare(AbstractMultiTableBulkIdStrategyImpl.java:88)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:313)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:462)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:708)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:724)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1855)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1792)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:595)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:307)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$10fd6b2a.getSessionFactory(<generated>)
+	at com.brd.config.AppConfig.getTemplate(AppConfig.java:68)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$10fd6b2a.CGLIB$getTemplate$6(<generated>)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$10fd6b2a$$FastClassBySpringCGLIB$$53ca4713.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.brd.config.AppConfig$$EnhancerBySpringCGLIB$$10fd6b2a.getTemplate(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:651)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:484)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:578)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1164)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1013)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4958)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5265)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:696)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:690)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1889)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:583)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:473)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1618)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:319)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+	at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:946)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1396)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1386)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:919)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:265)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:432)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+2023-07-06 14:15:23 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-07-06 14:17:37 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-07-06 14:17:39 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-07-06 14:17:44 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-07-06 14:17:47 => HV000001: Hibernate Validator 5.4.0.Final
+2023-07-06 14:17:52 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-07-06 14:19:17 => HHH000412: Hibernate Core {5.4.8.Final}
+2023-07-06 14:19:18 => HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2023-07-06 14:19:21 => HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-07-06 14:19:23 => HV000001: Hibernate Validator 5.4.0.Final
+2023-07-06 14:19:25 => HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-07-06 14:19:43 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-07-06 14:19:44 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-07-06 14:23:18 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-07-06 14:23:18 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2023-07-06 14:23:22 => HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead

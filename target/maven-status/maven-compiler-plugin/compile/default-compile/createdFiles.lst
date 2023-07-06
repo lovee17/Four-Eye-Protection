@@ -1,0 +1,16 @@
+com\brd\config\MvcWebApplicationInitializer.class
+com\brd\controller\MakerController.class
+com\brd\dao\CustomerMasterDao.class
+com\brd\service\AspectMaster.class
+com\brd\config\AppInitializer.class
+com\brd\model\CustomerCopy.class
+com\brd\service\Validations.class
+com\brd\service\AspectTemporary.class
+com\brd\config\MVCViewResolver.class
+com\brd\controller\CheckerController.class
+com\brd\model\Customer.class
+com\brd\service\MyException.class
+com\brd\config\WebSecurityConfig.class
+com\brd\config\AppConfig.class
+com\brd\dao\CustomerDao.class
+com\brd\model\CustomerMaster.class
